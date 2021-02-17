@@ -1,3 +1,3 @@
 module github.com/omertuc/embed/a
 
-go 1.15
+go 1.16

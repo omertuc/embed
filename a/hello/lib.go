@@ -1,6 +1,4 @@
-package main
-
-import "fmt"
+package hello
 
 //go:embed swagger.yaml
 var Swagger string
